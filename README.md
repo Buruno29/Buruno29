@@ -2,11 +2,10 @@
 - Interested in Programing logics overall.
 - I’m currently learning Python, trying to find myself anywhere in the gap of front-end/back-end, 
 attempting to reach certifications, and review other languages.
-- I have learned things about Theory of computation, Computer Architecture, Software Enginering, Object Oriented Programming,
-C, C++, Java but faint and basic Python.
-- Uncertain on what I would wish to colaborate, I have knowledge here and there but not really advanced.
-- I Would love to find a job in which I could relearn properly and have any usage for the skills of which
-I have barely practiced.
+- I have learned things about Theory of computation, Computer Architecture, Software Enginering, Object Oriented Programming, C++, a little of Java, somewhat of JS and a lot of Python.
+- Uncertain on what I would wish to colaborate, I have knowledge here and there but nothing really elaborate.
+-Currently learning React and React Native, JS for the sake of a project.
+- I Would love to find a job in which I could relearn properly and have any usage for the skills of which I have barely practiced.
 - 📫 How to reach me: brunoma2912@gmail.com 
 
 <!---
